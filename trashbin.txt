@@ -1,0 +1,5585 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            gap: 20px;
+            /* Adjust the gap between icons */
+        }
+
+        .icon {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #3498db;
+        }
+
+        .medium-icon {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #3498db;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="icon-container">
+        <div class="icon">
+            <img src="download1.png" alt="Icon 1">
+        </div>
+        <div class="icon">
+            <img src="busicon.png" alt="Icon 2" class="medium-icon">
+        </div>
+    </div>
+
+    <div class="icon-container">
+        <div class="icon">
+            <img src="busstop.png" alt="Icon 3" class="medium-icon">
+        </div>
+        <div class="icon">
+            <img src="busstop.png" alt="Icon 4" class="medium-icon">
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            /* Adjust the gap between icons */
+        }
+
+        .icon {
+            width: 35px;
+            height: 35px;
+            padding: 100px;
+        }
+
+        .medium-icon {
+            width: 90px;
+            /* Adjust the size as needed */
+            height: 90px;
+            padding: 30px;
+            /* Adjust the size as needed */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="icon-container">
+        <div class="icon">
+            <img src="download1.png" alt="Icon 1">
+        </div>
+        <div class="icon">
+            <img src="busicon.png" alt="Icon 2" class="medium-icon">
+        </div>
+    </div>
+
+     <div class="icon-container">
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 3" class="medium-icon">
+    </div>
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 4" class="medium-icon">
+    </div>
+</div> 
+
+</body>
+
+</html>
+ 
+            padding: 100px;
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Adjust the gap between icons */
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+        }
+
+        .small-icon {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="download1.png" alt="Icon 1">
+    </div>
+    <div class="icon">
+        <img src="busicon.png" alt="Icon 2" class="small-icon">
+    </div>
+</div>
+
+<!-- <div class="icon-container">
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 3">
+    </div>
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 4">
+    </div>
+</div> -->
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Adjust the gap between icons */
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="download1.png" alt="Icon 1">
+    </div>
+    <div class="icon">
+        <img src="busicon.png" alt="Icon 2">
+    </div>
+</div>
+
+<!-- <div class="icon-container">
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 3">
+    </div>
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 4">
+    </div>
+</div> -->
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            /* Adjust the gap between icons */
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="icon-container">
+        <div class="icon">
+            <img src="download1.png" alt="Icon 1">
+        </div>
+        <div class="icon">
+            <img src="busicon.png" alt="Icon 2">
+        </div>
+    </div>
+
+    <div class="icon-container">
+        <div class="icon">
+            <img src="busstop.png" alt="Icon 3">
+        </div>
+        <div class="icon">
+            <img src="busstop.png" alt="Icon 4">
+        </div>
+    </div>
+
+</body>
+
+</html>
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="download1.png" alt="Icon 1">
+    </div>
+    <div class="icon">
+        <img src="busicon.png" alt="Icon 2">
+    </div>
+</div>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 3">
+    </div>
+    <div class="icon">
+        <img src="busstop.png" alt="Icon 4">
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Icons Layout</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .icon-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="icon1.png" alt="Icon 1">
+    </div>
+    <div class="icon">
+        <img src="icon2.png" alt="Icon 2">
+    </div>
+</div>
+
+<div class="icon-container">
+    <div class="icon">
+        <img src="icon3.png" alt="Icon 3">
+    </div>
+    <div class="icon">
+        <img src="icon4.png" alt="Icon 4">
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+            /* Adjust the font size as needed */
+
+ 
+            /* Adjust the size as needed */
+
+ 
+            /* Adjust the size as needed */
+
+ 
+            /* Adjusted margin from the bottom */
+
+ 
+            /* Adjusted left position */
+
+ 
+            /* Adjust the font size as needed */
+
+ 
+            /* Increased margin */
+
+ 
+            font-size: 90px;
+
+ 
+font-size: 22px;
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px; /* Adjusted margin from the bottom */
+            left: 20px; /* Adjusted left position */
+            text-align: left;
+        }
+
+        .stop-info p {
+            margin: 8px 0; /* Increased margin */
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+
+        .speed-info p {
+            margin: 5px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            top: 20px; /* Adjusted margin from the top */
+            left: 20px; /* Adjusted left position */
+            text-align: left;
+        }
+
+        .stop-info p {
+            margin: 8px 0; /* Increased margin */
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+
+        .speed-info p {
+            margin: 5px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+
+        .speed-info p {
+            margin: 5px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            top: 10px;
+            left: 60px;
+        }
+
+        .stop-info p {
+            margin: 3px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+
+        .speed-info p {
+            margin: 3px 0;
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 40px; /* Adjust the size as needed */
+            height: 40px; /* Adjust the size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival Time: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>Speed: 50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon, .speed-info {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon {
+            top: 10px;
+            left: 10px;
+        }
+
+        .icon img, .speed-info img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+        }
+
+        .speed-info {
+            top: 10px;
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival Time: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>Speed: 50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            width: 30px; /* Adjust the size as needed */
+            height: 30px; /* Adjust the size as needed */
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival Time: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>Speed: 50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .speed-info img {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival Time: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>Speed: 50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Stop Card</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .card {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .stop-info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .stop-info p {
+            margin: 5px 0;
+        }
+
+        .speed-info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">
+        <img src="busicon.png" alt="Left Icon">
+    </div>
+    <div class="stop-info">
+        <p>Next Stop: Name of Stop</p>
+        <p>Approx Arrival Time: 10:00 AM</p>
+    </div>
+    <div class="speed-info">
+        <img src="speed.png" alt="Right Icon">
+        <p>Speed: 50 km/h</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+ 
+  // Data for multiple cards
+
+ 
+    // Add more cards as needed
+
+ 
+  // Function to create and append a card
+
+ 
+  // Get the card container element
+
+ 
+  // Loop through the cardsData and create cards dynamically
+
+ 
+  // Function to handle card click
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Cards</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card-container {
+      display: flex;
+      gap: 20px;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 20px;
+      height: 20px;
+      margin-right: 4px;
+    }
+
+    #busName {
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance, #busIcon, #stopIcon {
+      font-size: 10px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card-container" id="cardContainer"></div>
+
+<script>
+  // Data for multiple cards
+  const cardsData = [
+    { route: 1, busName: "Bus ABC", source: "City A", destination: "City B", distance: "100 km", buses: 5, stops: 10 },
+    { route: 2, busName: "Bus XYZ", source: "City C", destination: "City D", distance: "150 km", buses: 8, stops: 15 },
+    // Add more cards as needed
+  ];
+
+  // Function to create and append a card
+  function createCard(container, data) {
+    const card = document.createElement('div');
+    card.classList.add('card');
+    
+    card.innerHTML = `
+      <h3>Route ${data.route}</h3>
+      <div class="footer">
+        <p><strong><span id="busName">${data.busName}</span></strong>(<span id="source">${data.source}</span> - <span id="destination">${data.destination}</span>)</p>
+      </div>
+      <div class="footer footer-bg">
+        <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">${data.distance}</span>
+        <img src="busicon.png" alt="Bus Icon" class="icon"> <span id="busIcon">${data.buses} buses</span>
+        <img src="busstop.png" alt="Stop Icon" class="icon"> <span id="stopIcon">${data.stops} stops</span>
+      </div>
+    `;
+
+    container.appendChild(card);
+  }
+
+  // Get the card container element
+  const cardContainer = document.getElementById('cardContainer');
+
+  // Loop through the cardsData and create cards dynamically
+  cardsData.forEach(data => createCard(cardContainer, data));
+
+  // Function to handle card click
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Cards</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card-container {
+      display: flex;
+      gap: 20px;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance, #busIcon, #stopIcon {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card-container" id="cardContainer"></div>
+
+<script>
+  // Data for multiple cards
+  const cardsData = [
+    { route: 1, busName: "Bus ABC", source: "City A", destination: "City B", distance: "100 km", buses: 5, stops: 10 },
+    { route: 2, busName: "Bus XYZ", source: "City C", destination: "City D", distance: "150 km", buses: 8, stops: 15 },
+    // Add more cards as needed
+  ];
+
+  // Function to create and append a card
+  function createCard(container, data) {
+    const card = document.createElement('div');
+    card.classList.add('card');
+    
+    card.innerHTML = `
+      <h3>Route ${data.route}</h3>
+      <div class="footer">
+        <p><strong><span id="busName">${data.busName}</span></strong>(<span id="source">${data.source}</span> - <span id="destination">${data.destination}</span>)</p>
+      </div>
+      <div class="footer footer-bg">
+        <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">${data.distance}</span>
+        <img src="busicon.png" alt="Bus Icon" class="icon"> <span id="busIcon">${data.buses} buses</span>
+        <img src="busstop.png" alt="Stop Icon" class="icon"> <span id="stopIcon">${data.stops} stops</span>
+      </div>
+    `;
+
+    container.appendChild(card);
+  }
+
+  // Get the card container element
+  const cardContainer = document.getElementById('cardContainer');
+
+  // Loop through the cardsData and create cards dynamically
+  cardsData.forEach(data => createCard(cardContainer, data));
+
+  // Function to handle card click
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Cards</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card-container {
+      display: flex;
+      gap: 20px;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card-container" id="cardContainer"></div>
+
+<script>
+  const cardsData = [
+    { route: 1, busName: "Ridhi Sidhi", source: "Thapathali", destination: "Kathmandu", distance: "100 km" },
+    { route: 2, busName: "Sajha", source: "Jwagal", destination: "Godawari", distance: "150 km" },
+
+  ];
+
+  function createCard(container, data) {
+    const card = document.createElement('div');
+    card.classList.add('card');
+    
+    card.innerHTML = `
+      <h3>Route ${data.route}</h3>
+      <div class="footer">
+        <p><strong><span id="busName">${data.busName}</span></strong>(<span id="source">${data.source}</span> - <span id="destination">${data.destination}</span>)</p>
+      </div>
+      <div class="footer footer-bg">
+        <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">${data.distance}</span>
+      </div>
+    `;
+
+    container.appendChild(card);
+  }
+
+  const cardContainer = document.getElementById('cardContainer');
+
+  cardsData.forEach(data => createCard(cardContainer, data));
+
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+  // Function to handle card click
+
+ 
+  // Loop through the cardsData and create cards dynamically
+
+ 
+  // Get the card container element
+
+ 
+  // Function to create and append a card
+
+ 
+needed
+ 
+  // Data for multiple cards
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Cards</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card-container {
+      display: flex;
+      gap: 20px;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card-container" id="cardContainer"></div>
+
+<script>
+  // Data for multiple cards
+  const cardsData = [
+    { busName: "Bus ABC", source: "City A", destination: "City B", distance: "100 km" },
+    { busName: "Bus XYZ", source: "City C", destination: "City D", distance: "150 km" },
+    // Add more cards as needed
+  ];
+
+  // Function to create and append a card
+  function createCard(container, data) {
+    const card = document.createElement('div');
+    card.classList.add('card');
+    
+    card.innerHTML = `
+      <h3>Route 1</h3>
+      <div class="footer">
+        <p><strong><span id="busName">${data.busName}</span></strong>(<span id="source">${data.source}</span> - <span id="destination">${data.destination}</span>)</p>
+      </div>
+      <div class="footer footer-bg">
+        <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">${data.distance}</span>
+      </div>
+    `;
+
+    container.appendChild(card);
+  }
+
+  // Get the card container element
+  const cardContainer = document.getElementById('cardContainer');
+
+  // Loop through the cardsData and create cards dynamically
+  cardsData.forEach(data => createCard(cardContainer, data));
+
+  // Function to handle card click
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: transform 0.3s ease; /* Added transition for scale-up effect */
+      cursor: pointer;
+    }
+
+    .card:hover {
+      transform: scale(1.05); /* Scale up on hover */
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard" onclick="cardClick()">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer footer-bg">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+
+  // Function to handle card click
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: box-shadow 0.3s ease;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .card:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+
+    /* Added popup styles */
+    .popup {
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 10px;
+      border-radius: 8px;
+      display: none;
+    }
+
+    .card:hover .popup {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard" onclick="cardClick()">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer footer-bg">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+  <div class="popup">Click me!</div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+
+  // Function to handle card click
+  function cardClick() {
+    alert('Card Clicked!');
+  }
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+      transition: box-shadow 0.3s ease; /* Added transition for hover effect */
+    }
+
+    .card:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hover effect */
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer footer-bg">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName {
+      font-size: 14px; /* Adjusted font size for bus name */
+      font-weight: bold; /* Added bold font weight */
+    }
+
+    #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db; /* Background color for the lower area */
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer footer-bg">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName, #source, #destination, #distance {
+      font-size: 12px;
+    }
+
+    .footer-bg {
+      background-color: #3498db; /* Background color for the lower area */
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer footer-bg">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .footer {
+      margin-top: 6px;
+      text-align: center;
+      padding: 6px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px;
+    }
+
+    #busName, #source, #destination, #distance {
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 250px; /* Adjusted width */
+      padding: 10px; /* Adjusted padding */
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 14px; /* Adjusted font size */
+      margin-bottom: 6px; /* Adjusted margin */
+    }
+
+    .footer {
+      margin-top: 6px; /* Adjusted margin */
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 6px; /* Adjusted padding */
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 6px; /* Adjusted margin */
+    }
+
+    #busName, #source, #destination, #distance {
+      font-size: 12px; /* Adjusted font size */
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 15px; /* Adjusted padding */
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 16px; /* Adjusted font size */
+      margin-bottom: 8px; /* Adjusted margin */
+    }
+
+    .footer {
+      margin-top: 10px; /* Adjusted margin */
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 8px; /* Adjusted padding */
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 20px; /* Adjusted icon size */
+      height: 20px; /* Adjusted icon size */
+      margin-right: 6px; /* Adjusted margin */
+    }
+
+    #busName, #source, #destination, #distance {
+      font-size: 14px; /* Adjusted font size */
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 15px; /* Adjusted padding */
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      font-size: 16px; /* Adjusted font size */
+      margin-bottom: 8px; /* Adjusted margin */
+    }
+
+    .footer {
+      margin-top: 10px; /* Adjusted margin */
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 8px; /* Adjusted padding */
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 20px; /* Adjusted icon size */
+      height: 20px; /* Adjusted icon size */
+      margin-right: 6px; /* Adjusted margin */
+    }
+
+    #busName, #source, #destination, #distance {
+      font-size: 14px; /* Adjusted font size */
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 10px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 10px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Ridhi Sidhi";
+  const sourceName = "Thapathali";
+  const destName = "Thankot";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+      background-color: #3498db; /* Change this color as needed */
+      color: white;
+      padding: 10px;
+      border-radius: 0 0 8px 8px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+  </div>
+  <div class="footer">
+    <img src="download1.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Bus ABC";
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="busName">Bus ABC</span></strong>(<span id="source">City A</span> - <span id="destination">City B</span>)</p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Bus ABC";
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong>Bus Name:</strong> <span id="busName">Bus ABC</span></p>
+    <p><strong>Route:</strong> <span id="source">City A</span> - <span id="destination">City B</span></p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Bus ABC";
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong>Bus Name:</strong> <span id="busName">Bus ABC</span></p>
+    <p><strong>Route:</strong> <span id="source">City A</span> - <span id="destination">City B</span></p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const busName = "Bus ABC";
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('busName').innerText = busName;
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: left;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="source">City A</span> - <span id="destination">City B</span></strong></p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+    }
+
+    h3 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      text-align: left;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route 1</h3>
+  <div class="footer">
+    <p><strong><span id="source">City A</span> - <span id="destination">City B</span></strong></p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: center;
+    }
+
+    .footer {
+      margin-top: 15px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route Information</h3>
+  <div class="footer">
+    <p><strong><span id="source">City A</span> - <span id="destination">City B</span></strong></p>
+    <p><img src="distance.png" alt="Distance Icon" class="icon"> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "Pulchowk";
+  const destName = "Thapthali";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <!-- Add FontAwesome CSS link -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color: white;
+      text-align: center;
+    }
+
+    .footer {
+      margin-top: 15px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route Information</h3>
+  <div class="footer">
+    <p><strong><span id="source">City A</span> - <span id="destination">City B</span></strong></p>
+    <p><i class="fas fa-road icon"></i> <span id="distance">100 km</span></p>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destination').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 15px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route Information</h3>
+  <div class="footer">
+    <div>
+      <strong>Source:</strong> <span id="source">City A</span>
+    </div>
+    <div>
+      <strong>Destination:</strong> <span id="destination">City B</span>
+    </div>
+  </div>
+  <div class="footer">
+    <div>
+      <img src="distance.png" alt="Distance Icon" class="icon">
+      <strong>Distance:</strong> <span id="distance">100 km</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destic:\Users\Jyotsna Jha\Downloads\download (1).pngnation').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distance Card</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 15px;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="distanceCard">
+  <h3>Route Information</h3>
+  <div class="footer">
+    <div>
+      <strong>Source:</strong> <span id="source">City A</span>
+    </div>
+    <div>
+      <strong>Destination:</strong> <span id="destination">City B</span>
+    </div>
+  </div>
+  <div class="footer">
+    <div>
+      <img src="distance.png" alt="Distance Icon" class="icon">
+      <strong>Distance:</strong> <span id="distance">100 km</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  // You can replace these values dynamically using a backend or user input
+  const sourceName = "City A";
+  const destName = "City B";
+  const distanceValue = "100 km";
+
+  // Update the card content
+  document.getElementById('source').innerText = sourceName;
+  document.getElementById('destic:\Users\Jyotsna Jha\Downloads\download (1).pngnation').innerText = destName;
+  document.getElementById('distance').innerText = distanceValue;
+</script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background-color: #74c69d; 
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #000; /* Updated heading color to black */
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background-color: #74c69d; 
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #000; /* Updated heading color to black */
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background-color: #74c69d; 
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background: linear-gradient(135deg, #74c69d 0%, #4CAF50 100%);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #000; /* Updated heading color to black */
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background: linear-gradient(135deg, #74c69d 0%, #4CAF50 100%);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Route Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+    }
+
+    .card {
+      width: calc(33.33% - 20px);
+      background-color: #74c69d; 
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .card h2 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+
+    .route {
+      border: 2px dashed #fff;
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card" onclick="showMapRoute('Thapathali', 'Godavari')">
+      <h2>Route 1</h2>
+      <div class="route">
+        <p>Source: Thapathali</p>
+        <p>Destination: Godavari</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Pulchowk', 'Kirtipur')">
+      <h2>Route 2</h2>
+      <div class="route">
+        <p>Source: Pulchowk</p>
+        <p>Destination: Kirtipur</p>
+      </div>
+    </div>
+
+    <div class="card" onclick="showMapRoute('Lazimpat', 'Pashupati')">
+      <h2>Route 3</h2>
+      <div class="route">
+        <p>Source: Lazimpat</p>
+        <p>Destination: Pashupati</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showMapRoute(source, destination) {
+      // Implement map rendering logic here
+      console.log(`Show route from ${source} to ${destination}`);
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; 
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; 
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 8px; 
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+      color: #333;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+  width: 30%;
+  padding: 10px; 
+  margin-bottom: 20px;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-size: 16px;
+  background-color: #000; 
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, width 0.3s ease-in-out; /* Added width transition */
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  background-color: #333; 
+  transform: scale(1.05);
+  width: 90%; 
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Thapathali</option>
+      <option value="B">Pulchowk</option>
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Godavari</option>
+      <option value="D">Kirtipur</option>
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+     
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    function getDistanceBetweenLocations(location, destination) {
+      
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+      // Assuming a fixed rate of Rs 18 per 5km
+
+ 
+// In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+ 
+    // Dummy function to get distance between locations (Replace with actual API call)
+
+ 
+ // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+ 
+      <!-- Add more destinations as needed -->
+
+ 
+      <!-- Add more locations as needed -->
+
+ 
+/* Adjusted width on hover */
+ 
+/* Darker color on hover */
+ 
+/* Black button color */
+ 
+/* Smaller button size */
+ 
+/* Light background color */
+ 
+  height: 100%;
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; /* Unique theme color */
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px; /* Smaller button size */
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+      color: #333;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #000; /* Black button color */
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px; /* Smaller font size */
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #333; /* Darker color on hover */
+      transform: scale(1.05);
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; /* Unique theme color */
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px; /* Smaller button size */
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+      color: #333;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #000; /* Black button color */
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px; /* Smaller font size */
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #333; /* Darker color on hover */
+      transform: scale(1.05);
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; /* Unique theme color */
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px; /* Smaller button size */
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+      color: #333;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #ff6f61; /* Different button color */
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px; /* Smaller font size */
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #d83128; /* Darker color on hover */
+      transform: scale(1.05);
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; /* Unique theme color */
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+      color: #333;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #fff;
+      color: #333;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #45a049;
+      transform: scale(1.05);
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #e0e0e0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #74c69d; /* Unique theme color */
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: 1px solid #fff;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #45a049;
+      transform: scale(1.05);
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #f0f0f0; /* Light background color */
+    }
+
+    .container {
+      width: 80%;
+      max-width: 500px;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #333;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 12px;
+      font-weight: bold;
+      color: #555;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+      outline: none;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #45a049;
+      transform: scale(1.05);
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #f4f4f4; /* Light background color */
+    }
+
+    .container {
+      width: 100%;
+      max-width: 400px;
+      background: linear-gradient(45deg, #4CAF50, #2196F3);
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 16px;
+      border: none;
+      border-radius: 5px;
+      box-sizing: border-box;
+      font-size: 16px;
+      background-color: rgba(255, 255, 255, 0.8);
+      transition: background-color 0.3s ease-in-out;
+    }
+
+    select:focus, button:focus {
+      outline: none;
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    button {
+      background-color: #fff;
+      color: #333;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #333;
+      color: #fff;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #303030;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 400px;
+      background: linear-gradient(45deg, #4CAF50, #2196F3);
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 16px;
+      border: none;
+      border-radius: 5px;
+      box-sizing: border-box;
+      font-size: 16px;
+      background-color: rgba(255, 255, 255, 0.8);
+      transition: background-color 0.3s ease-in-out;
+    }
+
+    select:focus, button:focus {
+      outline: none;
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    button {
+      background-color: #fff;
+      color: #333;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    }
+
+    button:hover {
+      background-color: #333;
+      color: #fff;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #303030;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 400px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+      box-sizing: border-box;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      color: #333;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+      font-size: 16px;
+      transition: border-color 0.3s ease-in-out;
+    }
+
+    select:focus, button:focus {
+      border-color: #4CAF50;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bus Fare Calculator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 20px;
+      background-color: #f4f4f4;
+    }
+
+    .container {
+      max-width: 400px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+      font-size: 16px;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <label for="location">Select Location:</label>
+    <select id="location">
+      <option value="A">Location A</option>
+      <option value="B">Location B</option>
+      <!-- Add more locations as needed -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+      <option value="C">Destination C</option>
+      <option value="D">Destination D</option>
+      <!-- Add more destinations as needed -->
+    </select>
+
+    <button onclick="calculateRate()">Find Rate</button>
+
+    <div id="result"></div>
+
+  </div>
+
+  <script>
+    function calculateRate() {
+      const location = document.getElementById("location").value;
+      const destination = document.getElementById("destination").value;
+      
+      // You can implement your own logic to fetch distance data from the API based on location and destination
+      // For simplicity, using a fixed rate per 5km
+      const distance = getDistanceBetweenLocations(location, destination);
+      const rate = calculateFare(distance);
+
+      document.getElementById("result").innerHTML = `Rate: Rs ${rate}`;
+    }
+
+    // Dummy function to get distance between locations (Replace with actual API call)
+    function getDistanceBetweenLocations(location, destination) {
+      // In a real-world scenario, you might fetch distance data from an API
+      // For simplicity, assuming a fixed distance between locations
+      const distanceData = {
+        "A-C": 10,
+        "A-D": 15,
+        "B-C": 8,
+        "B-D": 12,
+      };
+
+      return distanceData[`${location}-${destination}`] || 0;
+    }
+
+    function calculateFare(distance) {
+      // Assuming a fixed rate of Rs 18 per 5km
+      const ratePer5Km = 18;
+      const numberOf5KmSegments = Math.ceil(distance / 5);
+      return numberOf5KmSegments * ratePer5Km;
+    }
+  </script>
+
+</body>
+</html>
+
+ 
